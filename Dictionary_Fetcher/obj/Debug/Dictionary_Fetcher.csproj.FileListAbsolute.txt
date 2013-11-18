@@ -1,0 +1,6 @@
+c:\users\enkh\documents\visual studio 2012\Projects\Dictionary_Fetcher\Dictionary_Fetcher\bin\Debug\Dictionary_Fetcher.exe.config
+c:\users\enkh\documents\visual studio 2012\Projects\Dictionary_Fetcher\Dictionary_Fetcher\bin\Debug\Dictionary_Fetcher.exe
+c:\users\enkh\documents\visual studio 2012\Projects\Dictionary_Fetcher\Dictionary_Fetcher\bin\Debug\Dictionary_Fetcher.pdb
+c:\users\enkh\documents\visual studio 2012\Projects\Dictionary_Fetcher\Dictionary_Fetcher\obj\Debug\Dictionary_Fetcher.csprojResolveAssemblyReference.cache
+c:\users\enkh\documents\visual studio 2012\Projects\Dictionary_Fetcher\Dictionary_Fetcher\obj\Debug\Dictionary_Fetcher.exe
+c:\users\enkh\documents\visual studio 2012\Projects\Dictionary_Fetcher\Dictionary_Fetcher\obj\Debug\Dictionary_Fetcher.pdb
